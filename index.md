@@ -1,9 +1,9 @@
 # Neuromorphic Computing Research
-### Sampreeth Sreeshan — INL Research Visit, 2026
+### Sampreeth Sreeshan 2026
 
 ---
 
-This site documents my research at the **International Iberian Nanotechnology Laboratory (INL)**, Braga, Portugal, under the supervision of **Bruno Romeira** and **Jana Nieder**, as part of the Televes Catedra chip program.
+This page documents my research at the **International Iberian Nanotechnology Laboratory (INL)**,Portugal, and **University of Santiago de Compostela(USC)**, Spain under the supervision of **Bruno Romeira**,**Jana Nieder**,**Paula López Martínez**,**Victor Manuel Brea Sanchez**
 
 ---
 
@@ -29,12 +29,4 @@ This site documents my research at the **International Iberian Nanotechnology La
 
 ---
 
-## Background
-
-I am a student at USC (Universidad de Santiago de Compostela). My background is in physics, with foundational knowledge of deep learning and Python. This project is my first hands-on implementation work in neuromorphic computing and spiking neural networks.
-
-I'm documenting everything publicly — including what I found confusing — because I believe honest, detailed learning logs are more useful than polished summaries.
-
----
-
-*Last updated: April 2026*
+*Last updated: 08 April 2026*

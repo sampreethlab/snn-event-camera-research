@@ -5,7 +5,7 @@ The goal isn't to summarise — it's to record what *I* understood, what connect
 
 ---
 
-## Hardware — RTD / NanoLED Spiking Neurons
+## RTD based SNN
 
 | Paper | Year | My Notes | Status |
 |-------|------|----------|--------|
@@ -19,13 +19,12 @@ The goal isn't to summarise — it's to record what *I* understood, what connect
 
 ---
 
-## Software — SNNs and Event-Based Vision
+## Event based vision and SNN
 
 | Paper | Year | My Notes | Status |
 |-------|------|----------|--------|
 | [Gallego et al. — Event-based Vision: A Survey](gallego_survey.md) | 2020 | The event camera bible | 🔄 Reading |
-| [Neftci et al. — Surrogate Gradient Learning in SNNs](neftci_surrogate.md) | 2019 | How to actually train SNNs via backprop | ⏳ Pending |
-| TFG Manoel Mellid | — | Implementation reference | ⏳ Pending |
+| [Training_Spiking_Neural_Networks_Using_Lessons_From_Deep_Learning](snn_survey.md)||||
 
 ---
 
