@@ -4,7 +4,7 @@ Weekly updates on what I've done, what I've understood, and what's next.
 
 ---
 
-## Week 1 — April 2026
+## Week 1 - April 2026
 
 **Focus:** Event-based cameras, setting up tools, understanding the project scope
 
