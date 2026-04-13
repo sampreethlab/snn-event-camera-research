@@ -12,7 +12,7 @@ This repo is updated as I learn -- notes, notes on research papers and implement
 
 Research event-based camera technologies and SNNs. Test their integration within the context of new AI hardware based on spiking NanoLEDs, both theoretically and in a proof-of-concept experimental test.
 
----
+
 
 ## What's Here
 
