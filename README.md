@@ -1,12 +1,12 @@
 # SNN & Event-Based Vision - Research
 
----
+
 
 A working research log documenting my learning and implementation work on **spiking neural networks**, **event-based cameras**, and **neuromorphic hardware** at the International Iberian Nanotechnology Laboratory (INL), Braga, Portugal and University of Santiago de Compostela (USC), Spain.
 
 This repo is updated as I learn -- notes, notes on research papers and implementations.
 
----
+
 
 ## Project
 
