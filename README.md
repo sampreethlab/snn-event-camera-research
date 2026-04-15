@@ -19,8 +19,8 @@ Research event-based camera technologies and SNNs. Test their integration within
 ### [`papers/`](papers/)
 Notes on every paper I've read- what it does, how it connects to the project, what I found confusing.
 
-### [`notes and learning/`](notes_and_learning/)
-Notes explaining the concepts in my words and jupyter notebooks created for learning the concepts
+### [`learning/`](learning/)
+Jupyter notebooks created for learning the concepts
 
 ### [`implementations/`](implementations/)
 Attempt to implement ideas that I learnt.
